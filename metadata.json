@@ -1,0 +1,7 @@
+{
+  "name": "Mi Diario Virtual",
+  "description": "Una aplicación de diario personal universitario interactivo con una IA empática. Registra tus experiencias diarias, estado de ánimo e imágenes, y recibe un mensaje de apoyo generado por Gemini AI basado en tus entradas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
